@@ -28,7 +28,7 @@ function activarPagina() {
 }
 
 function mostrarPoema() {
-  const poema = "Cada pétalo que cae susurra tu nombre, Brisell… porque incluso el viento sabe que eres mi Princesa.";
+  const poema = "Al verte a los ojos no puedo evitar no sentir amor y ternura, porque dónde otro te ven como eres actualmente, yo solo puedo ver a esa niña tierna y linda, y solo puedo pensar en mil maneras para poder hacerla feliz.";
   const contenedor = document.getElementById("poema-container");
 
   contenedor.classList.add("precarga");
@@ -62,7 +62,7 @@ function mostrarPoema() {
 function mostrarSeccion3() {
   const seccion2 = document.getElementById("seccion2");
   const seccion3 = document.getElementById("seccion3");
-  const frase = "Aunque el tiempo ha sido breve y los kilómetros largos, cada encuentro contigo ha sembrado un girasol en mi corazón.";
+  const frase = "Ten por seguro que siempre buscaré la manera para poder hacerte feliz y amada.";
   const contenedor = document.getElementById("frase-seccion3");
 
   seccion2.style.transition = "opacity 2s ease";
@@ -265,4 +265,5 @@ function generarEstrellasFijas() {
 
 function iniciarCieloEstrellado() {
   generarEstrellasFijas();
+
 }
