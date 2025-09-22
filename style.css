@@ -116,7 +116,7 @@ body {
   font-size: 1.8rem;
   max-width: 500px;
   line-height: 1.6;
-  color: #6b1e3a;
+  color: #ffe7e6;
   font-family: 'Satisfy', cursive;
 }
 
@@ -188,7 +188,7 @@ body {
   font-size: 1.8rem;
   max-width: 500px;
   line-height: 1.6;
-  color: #6b1e3a;
+  color: #ffe7e6;
   font-family: 'Satisfy', cursive;
   display: flex;
   flex-wrap: wrap;
@@ -339,4 +339,5 @@ body {
   }
 
 }
+
 
